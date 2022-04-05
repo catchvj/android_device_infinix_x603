@@ -1,0 +1,13 @@
+Hi Lalit,
+I see you have made really nice work on developing custom ROM for X603 and need your help in fixing my phone.
+
+I have infinix zero 5 with rooting and TWRP(3.1.1) installed with Stock infinix ROM which came with the device. I tried to factory reset the device but found my phone booting into TWRP all the time. ThenI wiped out Dalvik, System and cache and tried custom ROM of lineage OS but same problem, It boots into TWRP only.
+I also tried using dd command as suggested in various forums but it just keeps the phone in startup screen and doesn't go beyond that.
+
+I also tried downloading all Infinix Stock roms available at https://firmwarefile.com/infinix-zero-5-x603 and install but it keeps giving error of invalid Zip file format.
+I also tried installing lineage OS 17.1 from one image file found on internet on system partition and it gets installed but phone boots into TWRP only.
+
+Any suggestion / hope for recovering phone?
+
+Thanks in advance,
+Vijay
